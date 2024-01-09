@@ -1,12 +1,15 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kuri8ive&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+I'm a data scientist at Media Ad Data Team, [LY Corporation](https://www.lycorp.co.jp/en/), specializing in advertising-related analysis for [LINE NEWS](https://news.line.me/about/) and [SmartCH](https://guide.line.me/ja/services/smartchannel.html). I aim to provide insights that balance revenue and user experience, aiding in strategic decision-making.
 
+Recently, I've been involved in challenging projects such as optimizing advertising strategies in SmartCH and improving data engineering solutions using Airflow. I actively participate in early-stage planning discussions, providing immediate numerical data and dashboards to assist planner's decision.
+
+Working with a diverse team of data scientists, planners, software engineers, and members from various cultural backgrounds, I continue to enhance my skills and broaden my perspective in data science.
 
 <!--
 **kuri8ive/kuri8ive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuri8ive&hide=jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 Here are some ideas to get you started:
 
@@ -19,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
